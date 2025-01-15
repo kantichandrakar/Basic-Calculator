@@ -3,7 +3,7 @@
 A feature-rich and responsive calculator web application built with React, providing a user-friendly interface for performing various arithmetic calculations.
 
 
-![Screenshot (22)](https://github.com/rohitvinodyadav9/Unified-Mentors/assets/149653208/36471191-0c1d-48bd-b37e-0ad40687a4b9)<br>
+
 
 
 ## Overview
